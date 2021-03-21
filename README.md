@@ -2,8 +2,8 @@
 
 This assessment analyze rain data in Australia. Different machine learning algorithms can be used to model and predict rainfall in the Python using Apache Pyspark. The main outcomes achieved while applying these techniques were:
 
-Import pyspark and initialize Spark
-Load the dataset and print the schema and total number of entries
+- Import pyspark and initialize Spark
+- Load the dataset and print the schema and total number of entries
 Delete columns from the dataset
 Print the number of missing data in each column
 Fill the missing data with average value and maximum occurrence value
